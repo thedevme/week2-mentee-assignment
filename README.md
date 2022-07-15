@@ -1,6 +1,6 @@
 ##Single Button
 
-Recreate this button in SwiftUI. For any padding, spacing, colors or fonts you can find them in the design spec. [Single Button Design Spec](design-specs/links/page-1-1-buttons.html)
+Recreate this button in SwiftUI. For any padding, spacing, colors or fonts you can find them in the design spec. [Single Button Design Spec](/design-specs/links/page-1-1-buttons.html)
 
 ![Single Button](/assets/images/buttons.png)
 
